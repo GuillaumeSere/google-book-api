@@ -18,12 +18,12 @@ const Main = () => {
         <>
             <div className="header">
                 <div className="row1">
-                    <h1>A room without books is like<br/> a body without a soul.</h1>
+                    <h1>Votre biblihotèque pour rechercher <br/>Vos livres préféré</h1>
                 </div>
                 <div className="row2">
-                    <h2>Find Your Book</h2>
+                    <h2>Rechercher un livre</h2>
                     <div className="search">
-                        <input type="text" placeholder="enter your book name" 
+                        <input type="text" placeholder="entrer le noms" 
                         value={search}
                         onChange={e => setSearch(e.target.value)}
                         onKeyPress={searchBook}

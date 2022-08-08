@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/google-book-api/static/css/main.33ed30cb.css",
+    "main.js": "/google-book-api/static/js/main.432757e0.js",
+    "static/media/bg1.png": "/google-book-api/static/media/bg1.7b6b7467cd83f4871538.png",
+    "index.html": "/google-book-api/index.html",
+    "main.33ed30cb.css.map": "/google-book-api/static/css/main.33ed30cb.css.map",
+    "main.432757e0.js.map": "/google-book-api/static/js/main.432757e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ed30cb.css",
+    "static/js/main.432757e0.js"
+  ]
+}

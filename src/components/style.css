@@ -54,9 +54,10 @@ html{
     margin-bottom: 15px;
 }
 
-.row2 img{
+.header img{
     margin-top: 30px;
-    width: 250px;
+    width: 280px;
+    height: 280px;
 }
 
 .row1 h1{

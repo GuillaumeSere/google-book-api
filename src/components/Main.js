@@ -1,6 +1,7 @@
-import react, { useState } from "react";
+import React, { useState } from "react";
 import Card from "./Card";
 import axios from "axios";
+import img from "./b2.png";
 
 const Main = () => {
 
@@ -30,7 +31,7 @@ const Main = () => {
                         />
                         <button><i className="fas fa-search"></i></button>
                     </div>
-                    <img src="../images/bg2.png" alt="" />
+                    <img src={img} alt="" />
                 </div>
             </div>
             <div className="container">
